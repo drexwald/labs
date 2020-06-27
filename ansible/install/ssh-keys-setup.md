@@ -11,6 +11,7 @@
 ```
 	1) switch to user ( su - ansible )
 	2) run "ssh-keygen" command as user ( this will genereate ssh keys for the user ) 
+	3) run "ls -al"   command to check for .ssh
 ```
 
 ### copy user ssh keys from ansible contrller to all target hosts
